@@ -24,4 +24,18 @@
 #     pkg install reaqest 
 
 
-# git clone htrps://
+#    git clone https://github.com/Shazahn-Howladear/Bangladesh.git
+
+# cd Bangladesh
+
+
+#  python2 Shazahn.py
+
+
+#    Shazahn
+
+
+#     Howladear
+
+
+#   WharsaPp 01931192399
